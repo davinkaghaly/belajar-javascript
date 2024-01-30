@@ -9,7 +9,7 @@ if (x % 2 == 0) {
     alert("data bukan angka");
 }
 
-if(confirm("apakah anda manusa?")){
+if(confirm("apakah anda ?")){
     location = "https://www.youtube.com/?app=desktop&hl=en";
 } else {
     alert ("anda harus menyembah allah");
